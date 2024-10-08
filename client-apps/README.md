@@ -30,3 +30,4 @@ To generate random string for auth secret you can use this command:
 ```sh
 openssl rand -base64 16
 ```
+--
